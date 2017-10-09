@@ -1,9 +1,9 @@
-#Data analyze projects and data sciens researches
+# Data analyze projects and data sciens researches
 
 
 
 ## IMDB dataset research
-####Goal : 
+#### Goal : 
 * Understand whats happening in film industry.
 
 #### Research presentaion :
