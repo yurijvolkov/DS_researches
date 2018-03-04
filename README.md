@@ -28,6 +28,9 @@ SPO - university subject where we study system software (Unix - based systems, s
 * Understand which laboratory work is harder to prepare more for it
 * Predict mark for 4th work, based on marks from 1-3 works and 1st HW.
 
+#### Research presentaion :
+* Article on habrahabr.ru (Russian) : https://habrahabr.ru/post/321534/
+
 #### Data 
 * Collected marks from previous course
 
